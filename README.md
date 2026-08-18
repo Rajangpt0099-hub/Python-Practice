@@ -1,139 +1,56 @@
-
 # 🐍 Python Practice
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange)
+This repository contains my Python practice files and hands-on exercises.
 
-## 📌 About
+## 📚 Practice Files
 
-Welcome to the **Python Practice** repository!
+### 🔹 Practice 1 – Python Basics
 
-This repository contains my Python programming practice, coding exercises, and problem-solving programs created while learning Python. It covers Python fundamentals, logical programming, data structures, functions, object-oriented programming, file handling, and mini projects.
+Topics covered:
 
-The goal of this repository is to improve coding skills through consistent practice and hands-on implementation.
+* Variables
+* Data Types
+* Input and Output
+* Operators
+* If-Else Statements
+* Basic Problem Solving
 
----
-
-## 🎯 Topics Covered
-
-- Variables & Data Types
-- Operators
-- Input & Output
-- Conditional Statements
-- Loops
-- Strings
-- Lists
-- Tuples
-- Dictionaries
-- Sets
-- Functions
-- Modules
-- Exception Handling
-- File Handling
-- Object-Oriented Programming (OOP)
-- Pattern Programs
-- Number Programs
-- String Programs
-- Logical Problems
-- Mini Projects
+📓 **Notebook:**
+[Python Practice 1](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice-1.ipynb)
 
 ---
 
-## 📂 Repository Structure
+### 🔹 Practice 2 – Python Functions
 
-```
-Python-Practice/
-│
-├── Basics/
-├── Operators/
-├── Conditional Statements/
-├── Loops/
-├── Strings/
-├── Lists/
-├── Tuples/
-├── Dictionaries/
-├── Functions/
-├── File Handling/
-├── OOP/
-├── Pattern Programs/
-├── Practice Questions/
-├── Mini Projects/
-└── README.md
-```
+Topics covered:
+
+* Functions
+* User-Defined Functions
+* Function Parameters
+* Arguments
+* Return Statement
+* Arithmetic Operations
+* Comparison Operators
+* List Operations
+
+📓 **Notebook:**
+[Python Practice 2](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice%20-2%20%281%29.ipynb)
 
 ---
 
-## 💻 Technologies Used
+## 🛠️ Tools Used
 
-- Python 3
-- Visual Studio Code
-- Git
-- GitHub
+* Python
+* Jupyter Notebook
+* GitHub
 
----
+## 🎯 Objective
 
-## 🎓 Learning Objectives
+To improve my Python programming skills through regular practice, coding exercises, and problem-solving.
 
-- Build a strong Python foundation
-- Improve logical thinking
-- Practice real coding problems
-- Prepare for coding interviews
-- Strengthen problem-solving skills
+## 📈 Progress
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Rajangpt0099-hub/Python-Practice.git
-```
-
-2. Open the project folder
-
-```bash
-cd Python-Practice
-```
-
-3. Run any Python program
-
-```bash
-python filename.py
-```
-
----
-
-## 📈 Repository Goals
-
-- ✔ Daily Python Practice
-- ✔ Coding Exercises
-- ✔ Logical Programming
-- ✔ Mini Projects
-- ✔ Clean & Readable Code
-
----
-
-## 🤝 Contributions
-
-Suggestions and improvements are always welcome.
-Feel free to fork this repository and submit a pull request.
-
----
-
-## ⭐ Support
-
-If you find this repository useful, please consider giving it a ⭐ on GitHub.
-
----
-
-## 👨‍💻 Author
-
-**Rajan Gupta**
-
-GitHub: https://github.com/Rajangpt0099-hub
-
----
-
-### Happy Coding! 🚀🐍
+✅ Python Basics
+✅ Conditional Statements
+✅ Functions
+🔄 More Python Practice Coming Soon
