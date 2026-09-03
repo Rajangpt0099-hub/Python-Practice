@@ -1,52 +1,94 @@
 # 🐍 Python Practice
 
-This repository contains my Python practice files and hands-on exercises.
-I am using these practice sheets to build a strong foundation in Python programming and problem-solving.
+Welcome to my **Python Practice Repository**! 🚀
+
+This repository contains my Python learning journey, practice notebooks, coding exercises, and problem-solving activities. The notebooks cover important Python concepts from the basics to functions, conditional statements, loops, lists, strings, and more.
 
 ---
 
-## 📚 Practice Sheets
+## 📚 Python Practice Notebooks
 
-### 🔹 Practice 1 – Python Basics
+### 🔹 Practice 1 – Python Fundamentals
 
-Topics covered:
+This notebook contains the basic concepts of Python programming and beginner-level exercises.
 
+**Topics Covered:**
+
+* Python Introduction
 * Variables
 * Data Types
 * Input and Output
 * Operators
-* If-Else Statements
-* Conditional Statements
-* Basic Problem Solving
-* Simple Programming Exercises
+* Arithmetic Operations
+* Comparison Operators
+* Logical Operators
+* String Basics
+* Basic Python Programs
+* Beginner-Level Exercises
 
-📓 **Notebook:** [Python Practice-1](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice-1.ipynb)
+📓 **Notebook:**
+[Python Practice-1](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice-1.ipynb)
 
 ---
 
-### 🔹 Practice 2 – Python Functions
+### 🔹 Practice 2 – Conditional Statements
 
-Topics covered:
+This notebook focuses on decision-making and conditional statements in Python.
+
+**Topics Covered:**
+
+* If Statement
+* If-Else Statement
+* Elif Statement
+* Nested If-Else
+* Comparison Operators
+* Logical Operators
+* Conditional Expressions
+* Grading System
+* Age Group Classification
+* FizzBuzz
+* Vowel and Consonant Check
+* Simple Calculator
+* Triangle Classification
+
+📓 **Notebook:**
+[Python Practice-2](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice%20-2%20%281%29.ipynb)
+
+---
+
+### 🔹 Practice 3 – Functions & Problem Solving
+
+This notebook focuses on Python functions and different approaches to solving programming problems.
+
+**Topics Covered:**
 
 * Functions
 * User-Defined Functions
-* Function Parameters
-* Arguments
-* Return Statement
+* Built-in Functions
+* Lambda Functions
+* Recursive Functions
+* Function Arguments
+* Return Statements
+* Taking User Input
+* Digit Counting
+* Sum of Digits
 * Arithmetic Operations
-* Comparison Operators
-* List Operations
-* Function-Based Problem Solving
+* Comparison Operations
+* List-Based Problems
+* Problem-Solving Exercises
 
-📓 **Notebook:** [Python Practice-2](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice%20-2%20%281%29.ipynb)
+📓 **Notebook:**
+[Python Practice-3](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice-3.ipynb)
 
 ---
 
-### 🔹 Practice 3 – Python Practice & Problem Solving
+### 🔹 Practice 4 – Python Programming & Practice
 
-Topics covered:
+This notebook contains additional Python programming exercises designed to improve coding skills, logical thinking, and problem-solving ability.
 
-* Python Programming Concepts
+**Topics Covered:**
+
+* Python Programming
 * Functions
 * Lists
 * Tuples
@@ -55,37 +97,12 @@ Topics covered:
 * Loops
 * Conditional Statements
 * List Comprehension
-* Problem-Solving Exercises
-* Practical Python Programs
+* Practical Coding Exercises
+* Problem Solving
+* Logical Thinking
 
-📓 **Notebook:** [Python Practice-3](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice-3.ipynb)
-
----
-
-## 🛠️ Tools Used
-
-* 🐍 Python
-* 📓 Jupyter Notebook
-* 💻 GitHub
-
----
-
-## 🎯 Objective
-
-The main objective of this repository is to improve my Python programming skills through regular practice, coding exercises, and problem-solving.
-
----
-
-## 📈 Learning Progress
-
-* ✅ Python Basics
-* ✅ Variables & Data Types
-* ✅ Operators
-* ✅ Conditional Statements
-* ✅ Functions
-* ✅ Lists & Other Data Structures
-* ✅ Problem Solving
-* 🔄 Continuing Python Practice
+📓 **Notebook:**
+[Python Practice-4](https://github.com/Rajangpt0099-hub/Python-Practice/blob/main/Python%20Practice-4.ipynb)
 
 ---
 
@@ -97,22 +114,61 @@ Python-Practice/
 ├── Python Practice-1.ipynb
 ├── Python Practice -2 (1).ipynb
 ├── Python Practice-3.ipynb
+├── Python Practice-4.ipynb
+│
 └── README.md
 ```
 
 ---
 
-## 🚀 Learning Journey
+## 🎯 Objectives
 
-This repository represents my ongoing Python learning journey.
-I will continue adding new practice exercises and concepts as I progress toward becoming a **Data Analyst / Data Science professional**.
+The main objectives of this repository are:
+
+* To learn Python programming from the fundamentals
+* To understand programming logic
+* To improve problem-solving skills
+* To practice Python concepts through coding exercises
+* To develop a strong foundation for Data Analytics and Data Science
+* To maintain and showcase my Python learning journey
 
 ---
 
-## 🔗 Repository
+## 🛠️ Tools & Technologies
 
-[GitHub Repository – Python Practice](https://github.com/Rajangpt0099-hub/Python-Practice)
+| Tool                | Purpose            |
+| ------------------- | ------------------ |
+| 🐍 Python           | Programming        |
+| 📓 Jupyter Notebook | Coding & Practice  |
+| 💻 Git              | Version Control    |
+| 🐙 GitHub           | Project Repository |
 
 ---
 
-⭐ If you find this repository useful, feel free to explore the notebooks and follow my learning journey.
+## 📈 My Learning Journey
+
+I am continuously improving my Python programming skills through regular practice and hands-on exercises.
+
+These practice notebooks are part of my journey toward building strong technical skills in **Data Analytics and Data Science**.
+
+I will continue updating this repository with new Python exercises, projects, and data-related work.
+
+---
+
+## 👨‍💻 Author
+
+### Rajan Kumar Gupta
+
+📌 **GitHub:**
+https://github.com/Rajangpt0099-hub
+
+---
+
+## ⭐ Support
+
+If you find this repository useful, feel free to explore the notebooks and follow my learning journey.
+
+**Keep Learning • Keep Practicing • Keep Growing 🚀**
+
+---
+
